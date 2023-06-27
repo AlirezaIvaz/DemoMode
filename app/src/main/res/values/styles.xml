@@ -1,6 +1,6 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
 
-    <style name="Base.Theme.DemoModeTile" parent="Theme.Material3.DynamicColors.DayNight">
+    <style name="Base.Theme.DemoMode" parent="Theme.Material3.DynamicColors.DayNight">
         <item name="windowNoTitle">true</item>
         <item name="windowActionBar">false</item>
         <item name="android:statusBarColor">@android:color/transparent</item>
@@ -11,23 +11,23 @@
         <item name="android:fontFamily">?attr/font</item>
     </style>
 
-    <style name="Theme.DemoModeTile" parent="Base.Theme.DemoModeTile">
+    <style name="Theme.DemoMode" parent="Base.Theme.DemoMode">
         <item name="font">@font/poppins</item>
     </style>
 
-    <style name="Theme.DemoModeTile.SplashScreen" parent="Theme.SplashScreen">
+    <style name="Theme.DemoMode.SplashScreen" parent="Theme.SplashScreen">
         <item name="windowSplashScreenAnimatedIcon">@mipmap/ic_launcher</item>
         <item name="windowSplashScreenAnimationDuration">300</item>
-        <item name="postSplashScreenTheme">@style/Theme.DemoModeTile</item>
+        <item name="postSplashScreenTheme">@style/Theme.DemoMode</item>
         <item name="android:windowLightStatusBar">?android:isLightTheme</item>
     </style>
 
-    <style name="TextAppearance.DemoModeTile.TitleLarge" parent="TextAppearance.Material3.TitleLarge">
+    <style name="TextAppearance.DemoMode.TitleLarge" parent="TextAppearance.Material3.TitleLarge">
         <item name="fontFamily">?attr/font</item>
         <item name="android:fontFamily">?attr/font</item>
     </style>
 
-    <style name="TextAppearance.DemoModeTile.HeadlineMedium" parent="TextAppearance.Material3.HeadlineMedium">
+    <style name="TextAppearance.DemoMode.HeadlineMedium" parent="TextAppearance.Material3.HeadlineMedium">
         <item name="fontFamily">?attr/font</item>
         <item name="android:fontFamily">?attr/font</item>
     </style>

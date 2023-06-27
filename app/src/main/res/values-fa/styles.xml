@@ -1,6 +1,6 @@
 <resources>
 
-    <style name="Theme.DemoModeTile" parent="Base.Theme.DemoModeTile">
+    <style name="Theme.DemoMode" parent="Base.Theme.DemoMode">
         <item name="font">@font/vazirmatn</item>
     </style>
 </resources>
