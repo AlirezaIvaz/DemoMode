@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Demo Mode tile</string>
+    <string name="app_name">Demo Mode</string>
     <string name="action_demo_mode">Demo mode</string>
     <string name="action_github">GitHub</string>
     <string name="action_github_issues">GitHub issues</string>

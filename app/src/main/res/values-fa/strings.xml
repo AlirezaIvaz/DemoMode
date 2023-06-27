@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">کاشی حالت نمایشی</string>
+    <string name="app_name">حالت نمایشی</string>
     <string name="action_demo_mode">حالت نمایشی</string>
     <string name="action_github">گیت‌هاب</string>
     <string name="action_github_issues">ایشوها در گیت‌هاب</string>
