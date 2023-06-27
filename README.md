@@ -5,7 +5,7 @@
 
 A simple tool presented as a quick settings tile to simplify the process of setting up and activating **Demo Mode**.
 
-It's already pre-configured out of the box with perfect 7:00 clock, full WiFi, full signal and full battery icons for stunning clutter-free screenshots.
+It's already pre-configured out of the box with perfect 11:00 clock, full WiFi, full signal and full battery icons for stunning clutter-free screenshots.
 
 You can download the app from [releases page](https://github.com/AlirezaIvaz/DemoMode/releases).
 
