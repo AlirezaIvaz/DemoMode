@@ -3,7 +3,7 @@
 [![Apache2](http://img.shields.io/badge/license-APACHE2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
 [![Issues](https://img.shields.io/github/issues/AlirezaIvaz/DemoMode)](https://github.com/AlirezaIvaz/DemoMode/issues)
 
-A simple tool presented as a Quick settings tile to simplify the process of setting up and activating **Demo Mode**.
+A simple tool presented as a quick settings tile to simplify the process of setting up and activating **Demo Mode**.
 
 It's already pre-configured out of the box with perfect 7:00 clock, full WiFi, full signal and full battery icons for stunning clutter-free screenshots.
 
