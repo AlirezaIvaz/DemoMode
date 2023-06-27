@@ -13,15 +13,13 @@ class ActivitySplash : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         splashScreen = installSplashScreen()
         super.onCreate(savedInstanceState)
-        splashScreen.setOnExitAnimationListener {
-            startActivity(
-                Intent(
-                    this@ActivitySplash,
-                    ActivityMain::class.java
-                )
+        startActivity(
+            Intent(
+                this@ActivitySplash,
+                ActivityMain::class.java
             )
-            overridePendingTransition(android.R.anim.fade_in, android.R.anim.fade_out)
-            finish()
-        }
+        )
+        overridePendingTransition(android.R.anim.fade_in, android.R.anim.fade_out)
+        finish()
     }
 }
