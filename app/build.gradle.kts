@@ -14,8 +14,8 @@ android {
         applicationId = "ir.alirezaivaz.demo_mode"
         minSdk = 24
         targetSdk = 33
-        versionName = "1.0.0"
-        versionCode = 100
+        versionName = "1.0.1"
+        versionCode = 101
         resourceConfigurations += arrayOf(
             "en", "fa"
         )
