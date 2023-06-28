@@ -7,7 +7,9 @@ A simple tool presented as a quick settings tile to simplify the process of sett
 
 It's already pre-configured out of the box with perfect 11:00 clock, full WiFi, full signal and full battery icons for stunning clutter-free screenshots.
 
-You can download the app from [releases page](https://github.com/AlirezaIvaz/DemoMode/releases).
+You can download the app from [releases page](https://github.com/AlirezaIvaz/DemoMode/releases) or markets:
+
+[<img src="https://alirezaivaz.ir/assets/img/get-myket-en.png" alt="Get it on Myket">](https://myket.ir/app/ir.alirezaivaz.demo_mode)
 
 ## How to use
 
